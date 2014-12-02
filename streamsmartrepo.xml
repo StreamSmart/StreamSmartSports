@@ -110,7 +110,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Surfer Magazine</summary>
-    <description lang="en">The magazine was founded by John Severson in 1959 as a program to accompany his yearly surf films. Severson's photography, art and sense of humour set the pace for the future of Surfer, which quickly grew to be a reflection of the sport and culture, as well as a sounding board for surfers and environmental activists. Since 1959, Surfer Magazine has used its publication as a means of bringing readers a slice of the entire surfing world. Its editor-in-chief is Brendon Thomas; the photo editor is Grant Ellis.</description>
+    <description lang="en">The magazine was founded by Johnny Severson in 1959 as a program to accompany his yearly surf films. Severson's photography, art and sense of humour set the pace for the future of Surfer, which quickly grew to be a reflection of the sport and culture, as well as a sounding board for surfers and environmental activists. Since 1959, Surfer Magazine has used its publication as a means of bringing readers a slice of the entire surfing world. Its editor-in-chief is Brendon Thomas; the photo editor is Grant Ellis.</description>
     <platform>all</platform>
     <forum>http://www.xbmchub.com/forums/official-xbmc-hub-repo/</forum>
     <website>http://www.streamsmart.tv/</website>
