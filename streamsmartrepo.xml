@@ -3,7 +3,7 @@
 <addon id="plugin.video.devinsupertramp"
 	name="DevinSuperTramp"
 	version="1.0.3"
-	provider-name="DragonBox">
+	provider-name="StreamSmart">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube" version="3.0.0"/>
@@ -15,14 +15,14 @@
     <summary lang="en">DevinSuperTramp</summary>
     <description lang="en">High Quality fun videos filmed by Devin Graham</description>
     <platform>all</platform>
-    <website>http://www.thedragonbox.com/</website>
+    <website>http://www.streamsmart.tv/</website>
   </extension>
 </addon>
 
 <addon id="plugin.video.DocFilmStory"
 	name="DocFilmStory"
 	version="1.0.3"
-	provider-name="The Dragon Box">
+	provider-name="StreamSmart">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube" version="3.0.0"/>
@@ -34,14 +34,14 @@
     <summary lang="en">DocFilmStory</summary>
     <description lang="en">DocFilmStory</description>
     <platform>all</platform>
-    <website>http://www.thedragonbox.com/</website>
+    <website>http://www.streamsmart.tv/</website>
   </extension>
 </addon>
 
 <addon id="plugin.video.DocumentarizTV"
 	name="DocumentarizTV"
 	version="1.0.3"
-	provider-name="DragonBox">
+	provider-name="StreamSmart">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube" version="3.0.0"/>
@@ -53,14 +53,14 @@
     <summary lang="en">DocumentarizTV</summary>
     <description lang="en">DocumentarizTV</description>
     <platform>all</platform>
-    <website>http://www.thedragonbox.com/</website>
+    <website>http://www.streamsmart.tv/</website>
   </extension>
 </addon>
 
 <addon
-  id="plugin.video.dragon.sports"
+  id="plugin.video.stream.sports"
   version="3.0.1"
-  name="Dragon Streams"
+  name="StreamSmart Streams"
   provider-name="Unknown">
   <requires>
    <import addon="xbmc.python" version="2.1.0"/>
@@ -72,8 +72,8 @@
    <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Play a variety of quality streams on your DragonBox</summary>
-    <description>**None of these streams are hosted by DragonBox or any affiliates of DragonBox.</description>
+    <summary>Play a variety of quality streams on StreamSmart</summary>
+    <description>**None of these streams are hosted by StreamSmart or any affiliates of StreamSmart.</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -81,7 +81,7 @@
 <addon id="plugin.video.jonlajoie"
 	name="Jon Lajoie"
 	version="1.0.3b"
-	provider-name="DragonBox">
+	provider-name="StreamSmart">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube" version="3.0.0"/>
@@ -93,14 +93,14 @@
     <summary lang="en">Jon Lajoie</summary>
     <description lang="en">My name is Jon, I am from Montreal, Canada, and I make videos once in a while. I also act on a show called "The League," and I tour sometimes. Want to be my friend? www.jonlajoie.com</description>
     <platform>all</platform>
-    <website>http://www.thedragonbox.com/</website>
+    <website>http://www.streamsmart/</website>
   </extension>
 </addon>
 
 <addon id="plugin.video.surfer"
 	name="Surfer Magazine"
 	version="1.0.3"
-	provider-name="DragonBox">
+	provider-name="StreamSmart">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube" version="3.0.0"/>
@@ -113,14 +113,14 @@
     <description lang="en">The magazine was founded by John Severson in 1959 as a program to accompany his yearly surf films. Severson's photography, art and sense of humour set the pace for the future of Surfer, which quickly grew to be a reflection of the sport and culture, as well as a sounding board for surfers and environmental activists. Since 1959, Surfer Magazine has used its publication as a means of bringing readers a slice of the entire surfing world. Its editor-in-chief is Brendon Thomas; the photo editor is Grant Ellis.</description>
     <platform>all</platform>
     <forum>http://www.xbmchub.com/forums/official-xbmc-hub-repo/</forum>
-    <website>http://www.thedragonbox.com/</website>
+    <website>http://www.streamsmart.tv/</website>
   </extension>
 </addon>
 
 <addon id="plugin.video.TNAwrestling"
 	name="TNA Wrestling"
 	version="1.0.3"
-	provider-name="DragonBox">
+	provider-name="StreamSmart">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube" version="3.0.0"/>
@@ -132,7 +132,7 @@
     <summary lang="en">TNA Wrestling</summary>
     <description lang="en">TNA Wrestling youtube channel</description>
     <platform>all</platform>
-    <website>http://www.thedragonbox.com/</website>
+    <website>http://www.streamsmart.tv/</website>
   </extension>
 </addon>
 </addons>
